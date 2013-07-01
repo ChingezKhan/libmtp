@@ -456,6 +456,7 @@
   { "Microsoft/Sharp/nVidia", 0x045e, "Kin TwoM", 0x0641, DEVICE_FLAG_NONE },
   // Reported by Farooq Zaman (used for all Zunes)
   { "Microsoft", 0x045e, "Zune", 0x0710, DEVICE_FLAG_NONE },
+  { "Microsoft/HTC", 0x0bb4, "8X", 0x0ba1, DEVICE_FLAG_NONE },
 
   /*
    * JVC
